@@ -1,0 +1,69 @@
+body {
+    width: 1300px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    min-height: 100%;
+    min-width: 100%;
+    font-weight: 400;
+    font-size: 18px;
+    overflow: visible !important;
+    background-color: #f2f2f2;
+}
+.nav {
+    color: white;
+    text-decoration: none;
+    padding: 6px 8px;
+    margin-top: 15px;
+    display: inline-block;
+}
+nav {
+    text-align: center;
+    font-size: 26px;
+    list-style-type: none;
+}
+.nav:hover {
+    border-bottom: 2px solid white;
+    margin-bottom: 5px;
+}
+header {
+    margin-top: -8px;
+    margin-left: -7.7px;
+    background: url(https://s3-alpha-sig.figma.com/img/e629/8b2e/40cde3b3580c02bc3ce37f12823bacdf?Expires=1694995200&Signature=L80WeswRAn9xytnmw473IIO7nD7ULGbQAw69apb1R2uVcjyY1QnDu0qVH1SJRNjsAjor9tROu8uahk3ZSFaJ4gK3K4QG2gk~59VRIb9fMdfCrHbtNM5JZ9g4VptZbaK5Uic32WiBblSpCjiYjELr7XlZ4bSbAbOvVMZ1lsifrEncXYnK7Mr3b5dp3SpqE2SPJNkblrXaivdeue5cu-zBFLU8rScKLmNmeAt6GKDpq2I9MBJ-az~OkgPUXPcbMNa325-WNNqYn~UHjf8-Dt31tfJv-GwdvLj7~4ZxUhODh-Gvo7n88JVRy3RFmy5olEPIOQ5P1EJWjXDqWKty8f4WQg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4) center no-repeat;
+    height: 800px;
+    width: 1400px;
+    background-size: cover;
+}
+h2 {
+    font-size: 30px;
+    color: #4c575b;
+    margin-bottom: 15px;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 10px;
+}
+.text2 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+    display: block;
+    color: #4c575b;
+    font-size: 20px;
+}
+main {
+    width: 1200px;
+}
+.peredtext {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 0 0 10px;
+    color: #4c575b;
+    font-size: 20px;
+}
+.text {
+    margin-left: 10px;
+}
